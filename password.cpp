@@ -8,7 +8,7 @@ cin>>username;
 
 cout<<"enter your Password :";
 cin>>password;
-if(username =="Tranish" && password==1111 && password >=1000 && password <=9999)  
+if( username =="Tranishh" && password==1111 && password >=1000 && password <=9999)  
 {
   cout<<"login succesfull Tranish";
 }
